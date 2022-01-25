@@ -1,0 +1,2 @@
+mcstatus>=8.0.0
+mcdreforged>=2.3.1
