@@ -1,8 +1,4 @@
-MCDReforged Plugin Template
------
+## ServerStatus
 
-A template for MCDReforged (>=2.x) plugin
 
-Try `python -m mcdreforged pack` to generate the packed plugin!
-
-This template is under the CC0 license. Feel free to use it!
+一个在子服开启 / 关闭时自动广播的 MCDR 插件
